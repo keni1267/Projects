@@ -1,2 +1,3 @@
 # Projects
-Show previous projects and assignments worked on
+Show previous projects worked on
+Each branch represents a different project
